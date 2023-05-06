@@ -1,4 +1,7 @@
 # PDAC
+## Model
+
+The model was trained under 2.0μm.
 
 ## Download Weights
 

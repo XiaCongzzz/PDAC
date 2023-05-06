@@ -1,4 +1,15 @@
 # PDAC
-Weights Download
-link：https://pan.baidu.com/s/1rZdxryGBNLQTBDXR0M1ACA 
-keywords：62ip 
+
+## Download Weights
+
+We have uploaded the pre-trained weights to Baidu Cloud Disk, which can be downloaded through the following link:
+
+- Link: https://pan.baidu.com/s/1rZdxryGBNLQTBDXR0M1ACA
+- Password: 62ip
+
+## Usage
+
+Introduce how to use your project, including how to configure parameters, how to run, etc.
+
+
+
